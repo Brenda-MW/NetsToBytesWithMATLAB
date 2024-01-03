@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://www.mathworks.com/licensecenter/classroom/4300904/open/github/v1?repo=Brenda-MW/NetsToBytes_Tutorial)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://workshop-matlab.mathworks.com/open/github/v1?repo=Brenda-MW/NetsToBytes_Tutorial)
 # NetsToBytes_Tutorial
  Tutorial exercises for Nets to Bytes
 
