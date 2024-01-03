@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Brenda-MW/NetsToBytes_Tutorial)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://www.mathworks.com/licensecenter/classroom/4300904/open/github/v1?repo=Brenda-MW/NetsToBytes_Tutorial)
 # NetsToBytes_Tutorial
  Tutorial exercises for Nets to Bytes
 
@@ -10,7 +10,9 @@ To participate in the workshop, you need:
 
 - Google Chrome browser 
 
-- MathWorks account 
+- MathWorks account
+
+- myST account
 
 We will provide you with a temporary workshop license. This license gives you access to all products that the workshop uses, as well as workshop exercise files. 
 
