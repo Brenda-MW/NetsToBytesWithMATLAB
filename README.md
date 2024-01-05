@@ -48,7 +48,7 @@ MATLAB Online will try to automatically port over your workshop files from GitHu
 ## Step IV. Verify Your Environment 
 
 To verify that your environment is correctly set up for the exercises: 
-1. In the MATLAB Online Command Window: >> FarmToPlate_Setup 
+1. In the MATLAB Online Command Window: >> NetsToBytes_Setup 
 2. Confirm that the welcome message is display
 
 ## Try out the exercises! 
