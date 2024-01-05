@@ -3,9 +3,7 @@ clear;
 net = squeezenet; 
 
 % new dataset of merch
-unzip("MerchData.zip");
-
-imdsTrain = imageDatastore("MerchData\","IncludeSubfolders",true,"LabelSource","foldernames");
+imdsTrain = imageDatastore("../utils/MerchData","IncludeSubfolders",true,"LabelSource","foldernames");
 [imdsTrain, imdsValidation] = splitEachLabel(imdsTrain,0.7);
 
 % Resize the images to match the network input layer.

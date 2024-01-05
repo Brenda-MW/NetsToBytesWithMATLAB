@@ -2,12 +2,7 @@ clear;
 % Script to transfer learn with a new dataset from a pretrained network
 net = squeezenet; 
 
-% new dataset of merch
-unzip("MerchData.zip");
-
-
-
-imdsTrain = imageDatastore("MerchData\","IncludeSubfolders",true,"LabelSource","foldernames");
+imdsTrain = imageDatastore("../utils/MerchData","IncludeSubfolders",true,"LabelSource","foldernames");
 [imdsTrain, imdsValidation] = splitEachLabel(imdsTrain,0.7);
 
 % Resize the images to match the network input layer.
